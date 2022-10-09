@@ -7,10 +7,10 @@ It contains the PDF file created from the submission page of HackerRank and it's
 Then there is the Python code of my solutions. This is a Jupyter Notebook file named "HW_1.ipynb".
 This file is missing some solutions of exercises that I have not been able to complete. 
 In particular, the exercises that are missing are:
-* 3 on Strings
-* 1 on Sets 
-* 3 on Collections
-* 4 on Regex
+    * 3 on Strings
+    * 1 on Sets 
+    * 3 on Collections
+    * 4 on Regex
 
 for a total of 11 missing exercises out of 91.
 
@@ -19,4 +19,7 @@ Some of the exercises in the Regex section have been solved with help of the sol
 I had never worked with regular expressions before and I found them quite complicated.
 However, in any case, trying to understand the request of the exercise and the procedure to get the relative solution.
 
-Due to the RunningTime error, I had a hard times completing the exercises in Part 2 (Implementing of Algorithms). Therefore to be able to deliver them I have looked at some suggestions from the web.
+Due to the RunningTime error, I had a hard times completing the exercises in Part 2 (Implementing of Algorithms). 
+Therefore to be able to deliver them I have looked at some suggestions from the web.
+
+
