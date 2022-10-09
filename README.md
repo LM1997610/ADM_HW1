@@ -20,6 +20,6 @@ I had never worked with regular expressions before and I found them quite compli
 However, in any case, trying to understand the request of the exercise and the procedure to get the relative solution.
 
 Due to the RunningTime error detected by HackerRank, I had a hard times completing some of the exercises in Part 2 (Implementation of Algorithms). 
-Therefore to be able to solve it and submit them I have looked at some suggestions from the web.
+Therefore to be able to solve it and submit them I have looked at suggestions from the web.
 
 
