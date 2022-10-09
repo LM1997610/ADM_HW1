@@ -15,3 +15,8 @@ In particular, the exercises that are missing are:
 for a total of 11 missing exercises out of 91.
 
 
+Some of the exercises in the Regex section have been solved with help of the solutions found online.
+I had never worked with regular expressions before and I found them quite complicated.
+However, in any case, trying to understand the request of the exercise and the procedure to get the relative solution.
+
+Due to the RunningTime error, I had a hard times completing the exercises in Part 2 (Implementing of Algorithms). Therefore to be able to deliver them I have looked at some suggestions from the web.
