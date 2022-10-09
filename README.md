@@ -10,7 +10,7 @@ In particular, the exercises that are missing are:
 * 3 on Strings
 * 1 on Sets 
 * 3 on Collections
-   * 4 on Regex
+* 4 on Regex
 
 for a total of 11 missing exercises out of 91.
 
