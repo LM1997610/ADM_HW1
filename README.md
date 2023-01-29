@@ -1,4 +1,4 @@
-# Homework_1
+# HomeWork_1
 
 This GitHub repository was created to submit [**Algorithmic Methods of Data Mining**](http://aris.me/index.php/data-mining-ds-2022)'s [**HomeWork_1**](http://aris.me/contents/teaching/data-mining-ds-2022/homeworks/homework1.pdf).
 
