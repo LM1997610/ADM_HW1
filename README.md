@@ -1,6 +1,6 @@
 # Homework_1
 
-This GitHub repository was created to submit ADM's HomeWork1.
+This GitHub repository was created to submit [**Algorithmic Methods of Data Mining**](http://aris.me/index.php/data-mining-ds-2022)'s HomeWork1.
 
 It contains the PDF file created from the submission page of HackerRank and it's named "Submissions_HackerRank_merge.pdf"
 
