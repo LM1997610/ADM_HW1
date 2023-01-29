@@ -5,7 +5,7 @@ This GitHub repository was created to submit [**Algorithmic Methods of Data Mini
 It contains the PDF file created from the submission page of [**HackerRank**](https://www.hackerrank.com/) named <u>*Submissions_HackerRank_merge.pdf*</u>
 
 Then there is the Python code of my solutions.\
-This is a Jupyter Notebook file named "HW_1.ipynb".\
+This is a Jupyter Notebook file named **HW_1.ipynb**.\
 This file is missing some solutions of exercises that I have not been able to complete due to the difficulty level.
 
 In particular, the exercises that are missing are:
