@@ -2,7 +2,7 @@
 
 This GitHub repository was created to submit [**Algorithmic Methods of Data Mining**](http://aris.me/index.php/data-mining-ds-2022)'s [**HomeWork_1**](http://aris.me/contents/teaching/data-mining-ds-2022/homeworks/homework1.pdf).
 
-It contains the PDF file created from the submission page of HackerRank and it's named "Submissions_HackerRank_merge.pdf"
+It contains the PDF file created from the submission page of [**HackerRank**](https://www.hackerrank.com/) named <u>*Submissions_HackerRank_merge.pdf*</u>
 
 Then there is the Python code of my solutions. This is a Jupyter Notebook file named "HW_1.ipynb".\
 This file is missing some solutions of exercises that I have not been able to complete due to the difficulty level.\
