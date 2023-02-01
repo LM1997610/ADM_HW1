@@ -1,6 +1,6 @@
-# HomeWork_1
+# ADM : HomeWork_1
 
-This GitHub repository was created to submit [**Algorithmic Methods of Data Mining**](http://aris.me/index.php/data-mining-ds-2022)'s [**HomeWork_1**](http://aris.me/contents/teaching/data-mining-ds-2022/homeworks/homework1.pdf).
+This GitHub repository was created to submit [**Algorithmic Methods of Data Mining**](http://aris.me/index.php/data-mining-ds-2022)'s [**HomeWork_1**](https://github.com/lucamaiano/ADM/blob/master/2022/Homework_1/homework1.pdf).
 
 It contains the PDF file created from the submission page of [**HackerRank**](https://www.hackerrank.com/) named <u>*Submissions_HackerRank_merge.pdf*</u>
 
